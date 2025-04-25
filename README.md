@@ -22,75 +22,14 @@
 - Git & GitHub, Postman, Swagger, Figma, Photoshop  
 - Arduino IDE, Android Studio, BlueJ  
 - Microsoft Office, Linux, Dynatrace  
-
-**Soft Skills:**  
-- Communication, Team Collaboration, Flexibility, Creativity  
-- Problem-solving, Requirement Analysis, Enthusiastic Attitude  
-
-**Languages:**  
-- Thai (Native)  
-- English (Intermediate - B1)
-
----
-
-## 🌱 Currently Learning
-
-- React Native & Mobile App Development  
-- JWT Authentication with PostgreSQL  
-- CI/CD Pipelines & Docker  
-- DevOps Basics  
-- Advanced Animation with GSAP
-
----
-
-## 📈 Experience
-
-### 👨‍💻 Full-Stack Developer Intern @ Smarterware (Samart Telecom Subsidiary)
-
-- Collaborated in developing the **STS system**, an enterprise-level software used by Samart Corporation  
-- Built and optimized RESTful APIs using **C# on .NET** and **PostgreSQL**  
-- Used **Swagger** and **Postman** for API documentation and testing  
-- Developed responsive UI interfaces with **React** and **Next.js**  
-- Created clear technical documentation for long-term maintainability  
-- Integrated tools like **Dynatrace** to monitor system performance in real-time  
-- Worked on-site at the **Social Security Office – Compensation Fund Division** for weekly system updates and troubleshooting  
-
----
-
-## 🚀 Projects
-
-### Smart Parking System  
-**Tech:** ESP32, IR Sensor, OpenCV (Python), Firebase, HTML, CSS, JavaScript, GitHub Pages 
-🔗 [GitHub](https://drive.google.com/drive/u/1/folders/1UjCNZMG5eW-HiLuEhOaF4EIrTEK135UL)
-
-### Jodvacap_app
-**Tech:** Android Studio, Java
-🔗 [GitHub](https://github.com/ChampWinai/Jodvacap_app)
-
-### Mobile-electricity-Controlled 
-**Tech:** C++, ESP32
-🔗 [GitHub](https://github.com/ChampWinai/Mobile-electricity-Controlled)
-
-### XO Game Java – Basic XO Game Application
-**Tech:** Java (OOP)
-🔗 [GitHub](https://github.com/ChampWinai/XO_game_Java)
-
-### Web Design Mini-Project-1-Website-BU-Open-House
-**Tech:** Html, Css
-🔗 [GitHub](https://github.com/ChampWinai/Mini-Project-1-Website-BU-Open-House)
-
----
-
+ 
 ## 📝 Blog  
 🔗 [Medium Blog](https://medium.com/@winai.boony)
 
----
 
 ## 📄 Resume  
 You can find my full resume here:  
 🔗 [My Resume](https://www.canva.com/design/DAGlOxKYsMY/wJV5Yx5XVOTDUiwtJoobFg/edit?utm_content=DAGlOxKYsMY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
----
 
 ## 📫 Contact Me
 
